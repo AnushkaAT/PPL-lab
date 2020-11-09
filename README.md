@@ -7,4 +7,4 @@
 6. Assignment 5(Stack smashing)
 7. Assignment 6 OOP(animals and shapes)
 8. Assignment 8 Exception handling
-9. Assignment 10 Prolog database
+10. Assignment 10 Prolog database
